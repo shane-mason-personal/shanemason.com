@@ -1,0 +1,23 @@
+
+
+h1 {
+    font-family: Garamond;
+    color: #007d58;
+}
+
+p {
+    font-family: Helvetica;
+}
+
+body {
+    font-family: SimplonBP,sans-serif,-apple-system,BlinkMacSystemFont;
+    padding: .1rem .4rem;
+    font-size: 90%;
+    color: #007d58;
+    border-radius: .1335rem
+}
+
+#banner-gem {
+    height: 300px;
+    width: 100vw;
+}
