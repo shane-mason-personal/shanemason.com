@@ -21,3 +21,10 @@ body {
     height: 300px;
     width: 100vw;
 }
+
+.navigation {
+    margin: 10px 10px;
+    padding: 10px;
+    border: 1px solid #007d58;
+    background-color: white; 
+}
