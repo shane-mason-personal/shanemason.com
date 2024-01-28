@@ -36,4 +36,6 @@ p .navigation {
     border: 1px solid #007d58;
     background-color: white; 
     position: fixed;
+    display: inline-block;
+    width: 100px;
 }
