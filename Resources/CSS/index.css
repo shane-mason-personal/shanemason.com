@@ -29,3 +29,11 @@ body {
     background-color: white; 
     position: fixed;
 }
+
+p .navigation {
+    margin: 10px 10px;
+    padding: 10px;
+    border: 1px solid #007d58;
+    background-color: white; 
+    position: fixed;
+}
