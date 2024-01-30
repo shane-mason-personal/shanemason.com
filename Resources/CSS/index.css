@@ -66,7 +66,8 @@ p.footer-nav {
     padding: 5px;
     border: 2px solid #007d58;
     background-color: #faf7f0; 
-    position: relative;   
+    position: relative;
+    font-size: 1em;
 }
 
 #footer-gem {
