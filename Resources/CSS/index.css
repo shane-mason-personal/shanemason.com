@@ -42,9 +42,11 @@ body {
     padding: 10px;
     border: 1px solid #007d58;
     background-color: #faf7f0; 
-    position: fixed;
+    position: relative;
     width: 100%;
 }
+
+/* I don't think this is doing anything 
 
 .navigation p {
     margin: 10px 10px;
@@ -55,6 +57,8 @@ body {
     display: inline-block;
     width: 100px;
 }
+
+*/
 
 .footer {
     background-color: #faf7f0;
