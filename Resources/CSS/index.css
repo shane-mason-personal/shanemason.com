@@ -9,12 +9,27 @@ p {
     font-family: Helvetica;
 }
 
+</* Old Body
+
 body {
     font-family: SimplonBP,sans-serif,-apple-system,BlinkMacSystemFont;
     padding: .1rem .4rem;
     font-size: 90%;
     color: #007d58;
     border-radius: .1335rem
+}
+
+*/
+
+body {
+    margin: 0;
+    color: #1A2A3B;
+    font-family: SimplonBP,sans-serif,-apple-system,BlinkMacSystemFont;
+    font-weight: 400;
+    font-size: 1rem;
+    line-height: 1.5;
+    letter-spacing: 0.15px;
+    background-color: ;#1c2b3b
 }
 
 #banner-gem {
@@ -28,9 +43,10 @@ body {
     border: 1px solid #007d58;
     background-color: white; 
     position: fixed;
+    width: 100%;
 }
 
-p .navigation {
+.navigation p {
     margin: 10px 10px;
     padding: 10px;
     border: 1px solid #007d58;
@@ -39,3 +55,30 @@ p .navigation {
     display: inline-block;
     width: 100px;
 }
+
+footer {
+    background-color: #007d58;
+}
+
+.footer-nav p {
+    display: inline-block
+    margin: 10px;
+    margin: 10px 10px;
+    padding: 10px;
+    border: 1px solid #007d58;
+    background-color: white; 
+    position: fixed;
+    display: inline-block;
+    width: 100px;
+}
+
+/* Color Palette
+
+
+Bright Green
+#1c2b3b
+
+Dark Green
+#1c2b3b
+
+*/
