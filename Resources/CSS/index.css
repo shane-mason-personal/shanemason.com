@@ -1,12 +1,12 @@
 
 
 h1 {
-    font-family: SimplonBP;
+    font-family: SimplonBP,sans-serif,-apple-system,BlinkMacSystemFont;
     color: #007d58;
 }
 
 p {
-    font-family: SimplonBP;
+    font-family: SimplonBP,sans-serif,-apple-system,BlinkMacSystemFont;
 }
 
 /* Old Body
@@ -44,7 +44,6 @@ li.navigation {
     background-color: #faf7f0; 
     position: relative;
     width: 100%;
-    float: right;
 }
 
 /* I don't think this is doing anything 
