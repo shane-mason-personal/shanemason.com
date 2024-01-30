@@ -44,6 +44,7 @@ body {
     background-color: #faf7f0; 
     position: relative;
     width: 100%;
+    float: right;
 }
 
 /* I don't think this is doing anything 
