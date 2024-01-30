@@ -29,7 +29,7 @@ body {
     font-size: 1rem;
     line-height: 1.5;
     letter-spacing: 0.15px;
-    background-color: ;#1c2b3b
+    background-color: #faf7f0;
 }
 
 #banner-gem {
@@ -41,7 +41,7 @@ body {
     margin: 10px 10px;
     padding: 10px;
     border: 1px solid #007d58;
-    background-color: white; 
+    background-color: #faf7f0; 
     position: fixed;
     width: 100%;
 }
@@ -57,7 +57,7 @@ body {
 }
 
 footer {
-    background-color: #007d58;
+    background-color: #faf7f0;
 }
 
 .footer-nav p {
@@ -66,10 +66,11 @@ footer {
     margin: 10px 10px;
     padding: 10px;
     border: 1px solid #007d58;
-    background-color: white; 
+    background-color: #faf7f0; 
     position: fixed;
     display: inline-block;
     width: 100px;
+    
 }
 
 /* Color Palette
@@ -81,4 +82,6 @@ Bright Green
 Dark Green
 #1c2b3b
 
+Light Grey/Pink Background
+#faf7f0
 */
