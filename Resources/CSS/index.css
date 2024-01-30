@@ -1,12 +1,12 @@
 
 
 h1 {
-    font-family: Garamond;
+    font-family: SimplonBP;
     color: #007d58;
 }
 
 p {
-    font-family: Helvetica;
+    font-family: SimplonBP;
 }
 
 /* Old Body
@@ -60,16 +60,17 @@ body {
     background-color: #faf7f0;
 }
 
-.footer-nav p {
+p.footer-nav {
     display: inline-block;
     margin: 10px 10px;
-    padding: 10px;
-    border: 1px solid #007d58;
+    padding: 5px;
+    border: 2px solid #007d58;
     background-color: #faf7f0; 
-    position: fixed;
-    display: inline-block;
-    width: 100px;
-    
+    position: relative;   
+}
+
+#footer-gem {
+    height: 1.5em auto;
 }
 
 /* Color Palette
